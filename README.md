@@ -17,4 +17,6 @@ In main, I have used an object for my stack.Using that object,I am calling my fu
 
 To compile,
 I have kept 3files, a header file for function declarations; a main for int main and a cpp for function implementation. I have included the file path in main and cpp. My program is running fine.I have used a while loop in main which will calculate my average.
+
+One more thing, I have used the Visual studio code.
 <img width="615" alt="Screenshot 2024-03-04 at 7 45 51 PM" src="https://github.com/Mai1sha/Myassign2_303/assets/123522545/a821e2fd-0e10-40d3-b2e8-a90b58f489d3">
